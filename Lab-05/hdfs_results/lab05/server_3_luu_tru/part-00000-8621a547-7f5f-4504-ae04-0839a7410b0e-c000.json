@@ -1,0 +1,4 @@
+{"camera_id":"cam_01","frame_id":"7","timestamp":"1781471462.9165797","bounding_boxes":"[{\"type\": \"face\", \"x\": 248, \"y\": 257, \"w\": 164, \"h\": 164}]","processed_time":"2026-06-15T04:11:06.568+07:00"}
+{"camera_id":"cam_01","frame_id":"8","timestamp":"1781471463.952831","bounding_boxes":"[{\"type\": \"face\", \"x\": 255, \"y\": 258, \"w\": 155, \"h\": 155}]","processed_time":"2026-06-15T04:11:06.568+07:00"}
+{"camera_id":"cam_01","frame_id":"9","timestamp":"1781471464.9746695","bounding_boxes":"[{\"type\": \"face\", \"x\": 257, \"y\": 259, \"w\": 157, \"h\": 157}, {\"type\": \"face\", \"x\": 232, \"y\": 180, \"w\": 202, \"h\": 202}]","processed_time":"2026-06-15T04:11:06.568+07:00"}
+{"camera_id":"cam_01","frame_id":"10","timestamp":"1781471466.0154777","bounding_boxes":"[{\"type\": \"face\", \"x\": 254, \"y\": 257, \"w\": 163, \"h\": 163}]","processed_time":"2026-06-15T04:11:06.568+07:00"}

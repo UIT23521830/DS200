@@ -1,0 +1,13 @@
+{"camera_id":"cam_01","frame_id":"19","timestamp":"1781471475.2883415","bounding_boxes":"[{\"type\": \"face\", \"x\": 158, \"y\": 190, \"w\": 207, \"h\": 207}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"20","timestamp":"1781471476.3031468","bounding_boxes":"[{\"type\": \"face\", \"x\": 202, \"y\": 187, \"w\": 209, \"h\": 209}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"21","timestamp":"1781471477.3227823","bounding_boxes":"[{\"type\": \"face\", \"x\": 228, \"y\": 193, \"w\": 209, \"h\": 209}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"22","timestamp":"1781471478.3474116","bounding_boxes":"[{\"type\": \"face\", \"x\": 233, \"y\": 193, \"w\": 203, \"h\": 203}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"23","timestamp":"1781471479.37814","bounding_boxes":"[{\"type\": \"face\", \"x\": 228, \"y\": 193, \"w\": 204, \"h\": 204}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"24","timestamp":"1781471480.4022348","bounding_boxes":"[{\"type\": \"face\", \"x\": 231, \"y\": 194, \"w\": 204, \"h\": 204}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"25","timestamp":"1781471481.425504","bounding_boxes":"[]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"26","timestamp":"1781471482.4392607","bounding_boxes":"[{\"type\": \"face\", \"x\": 286, \"y\": 215, \"w\": 189, \"h\": 189}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"27","timestamp":"1781471483.4727895","bounding_boxes":"[]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"28","timestamp":"1781471484.52156","bounding_boxes":"[{\"type\": \"face\", \"x\": 211, \"y\": 212, \"w\": 184, \"h\": 184}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"29","timestamp":"1781471485.5378344","bounding_boxes":"[{\"type\": \"face\", \"x\": 214, \"y\": 207, \"w\": 184, \"h\": 184}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"30","timestamp":"1781471486.5663166","bounding_boxes":"[{\"type\": \"face\", \"x\": 231, \"y\": 201, \"w\": 190, \"h\": 190}]","processed_time":"2026-06-15T04:11:27.611+07:00"}
+{"camera_id":"cam_01","frame_id":"31","timestamp":"1781471487.5951047","bounding_boxes":"[{\"type\": \"face\", \"x\": 233, \"y\": 203, \"w\": 187, \"h\": 187}]","processed_time":"2026-06-15T04:11:27.611+07:00"}

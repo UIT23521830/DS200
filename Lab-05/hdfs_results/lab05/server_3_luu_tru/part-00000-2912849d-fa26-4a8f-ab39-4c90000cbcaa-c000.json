@@ -1,0 +1,8 @@
+{"camera_id":"cam_01","frame_id":"32","timestamp":"1781471488.6362402","bounding_boxes":"[{\"type\": \"face\", \"x\": 231, \"y\": 202, \"w\": 190, \"h\": 190}]","processed_time":"2026-06-15T04:11:36.817+07:00"}
+{"camera_id":"cam_01","frame_id":"33","timestamp":"1781471489.6693785","bounding_boxes":"[{\"type\": \"face\", \"x\": 231, \"y\": 203, \"w\": 188, \"h\": 188}]","processed_time":"2026-06-15T04:11:36.817+07:00"}
+{"camera_id":"cam_01","frame_id":"34","timestamp":"1781471490.7149549","bounding_boxes":"[{\"type\": \"face\", \"x\": 228, \"y\": 204, \"w\": 188, \"h\": 188}]","processed_time":"2026-06-15T04:11:36.817+07:00"}
+{"camera_id":"cam_01","frame_id":"35","timestamp":"1781471491.7652626","bounding_boxes":"[{\"type\": \"face\", \"x\": 226, \"y\": 201, \"w\": 192, \"h\": 192}]","processed_time":"2026-06-15T04:11:36.817+07:00"}
+{"camera_id":"cam_01","frame_id":"36","timestamp":"1781471492.8800025","bounding_boxes":"[{\"type\": \"face\", \"x\": 228, \"y\": 203, \"w\": 189, \"h\": 189}]","processed_time":"2026-06-15T04:11:36.817+07:00"}
+{"camera_id":"cam_01","frame_id":"37","timestamp":"1781471493.907374","bounding_boxes":"[{\"type\": \"face\", \"x\": 231, \"y\": 202, \"w\": 189, \"h\": 189}]","processed_time":"2026-06-15T04:11:36.817+07:00"}
+{"camera_id":"cam_01","frame_id":"38","timestamp":"1781471494.9223962","bounding_boxes":"[{\"type\": \"face\", \"x\": 235, \"y\": 193, \"w\": 209, \"h\": 209}]","processed_time":"2026-06-15T04:11:36.817+07:00"}
+{"camera_id":"cam_01","frame_id":"39","timestamp":"1781471495.9308305","bounding_boxes":"[{\"type\": \"face\", \"x\": 193, \"y\": 157, \"w\": 264, \"h\": 264}]","processed_time":"2026-06-15T04:11:36.817+07:00"}
